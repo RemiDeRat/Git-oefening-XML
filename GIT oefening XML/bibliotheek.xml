@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bibliotheek>
+  <boek id="B01">
+    <titel>C# stap voor stap</titel>
+    <categorie>Informatica</categorie>
+    <jaar>2022</jaar>
+    <beschikbaar>true</beschikbaar>
+  </boek>
+  <boek id="B02">
+    <titel>Netwerken begrijpen</titel>
+    <categorie>Informatica</categorie>
+    <jaar>2021</jaar>
+    <beschikbaar>false</beschikbaar>
+  </boek>
+  <boek id="B03">
+    <titel>De laatste sleutel</titel>
+    <categorie>Roman</categorie>
+    <jaar>2019</jaar>
+    <beschikbaar>true</beschikbaar>
+  </boek>
+  <boek id="B04">
+    <titel>Databanken ontwerpen</titel>
+    <categorie>Informatica</categorie>
+    <jaar>2024</jaar>
+    <beschikbaar>true</beschikbaar>
+  </boek>
+  <boek id="B05">
+    <titel>Een reis door de tijd</titel>
+    <categorie>Geschiedenis</categorie>
+    <jaar>2020</jaar>
+    <beschikbaar>true</beschikbaar>
+  </boek>
+  <boek id="B06">
+    <titel>Websites bouwen</titel>
+    <categorie>Informatica</categorie>
+    <jaar>2023</jaar>
+    <beschikbaar>true</beschikbaar>
+  </boek>
+  <boek id="B07">
+    <titel>De overkant</titel>
+    <categorie>Roman</categorie>
+    <jaar>2024</jaar>
+    <beschikbaar>false</beschikbaar>
+  </boek>
+  <boek id="B08">
+    <titel>Digitale sporen</titel>
+    <categorie>Informatica</categorie>
+    <jaar>2018</jaar>
+    <beschikbaar>true</beschikbaar>
+  </boek>
+</bibliotheek>
