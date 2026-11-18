@@ -6,5 +6,11 @@ namespace GIT_oefening_XML
         {
             InitializeComponent();
         }
+
+        private void btnBoekInvoer_Click(object sender, EventArgs e)
+        {
+            Form newform = new Form2();
+            newform.ShowDialog();
+        }
     }
 }

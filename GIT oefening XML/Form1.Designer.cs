@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            btnBoekInvoer = new Button();
+            SuspendLayout();
+            // 
+            // btnBoekInvoer
+            // 
+            btnBoekInvoer.Location = new Point(49, 36);
+            btnBoekInvoer.Name = "btnBoekInvoer";
+            btnBoekInvoer.Size = new Size(242, 90);
+            btnBoekInvoer.TabIndex = 0;
+            btnBoekInvoer.Text = "Boek toevoegen";
+            btnBoekInvoer.UseVisualStyleBackColor = true;
+            btnBoekInvoer.Click += btnBoekInvoer_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnBoekInvoer);
+            Name = "Form1";
             Text = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button btnBoekInvoer;
     }
 }
