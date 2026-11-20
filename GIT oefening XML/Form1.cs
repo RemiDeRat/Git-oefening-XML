@@ -7,10 +7,18 @@ namespace GIT_oefening_XML
             InitializeComponent();
         }
 
+
         private void btnBoekInvoer_Click(object sender, EventArgs e)
         {
             Form newform = new Form2();
             newform.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lees_form newForm = new lees_form();
+            newForm.ShowDialog();
+
         }
     }
 }

@@ -1,1 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?><boeken><boek><titel>De Hobbit</titel><auteur>J.R.R. Tolkien</auteur><jaar>1937</jaar></boek></boeken>
+<?xml version='1.0' encoding='utf-8'?>
+<boeken>
+	<boek>
+		<titel>De Hobbit</titel>
+		<auteur>J.R.R. Tolkien</auteur>
+		<jaar>1937</jaar>
+	</boek>
+	<boek>
+		<titel>Isaac De Magician</titel>
+		<auteur>IBOJ</auteur>
+		<jaar>1937</jaar>
+	</boek>
+	<boek>
+		<titel>Remi De Bruno</titel>
+		<auteur>R.V.Q</auteur>
+		<jaar>1937</jaar>
+	</boek>
+	<boek>
+		<titel>Cheeky Tristyyy</titel>
+		<auteur>T:T Boy</auteur>
+		<jaar>1937</jaar>
+	</boek>
+</boeken>
+

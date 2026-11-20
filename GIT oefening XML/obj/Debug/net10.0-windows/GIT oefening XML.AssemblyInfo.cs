@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GIT oefening XML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+501fba0712231ac3aa8f9b28c30e0ae5d866ec69")]
 [assembly: System.Reflection.AssemblyProductAttribute("GIT oefening XML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GIT oefening XML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
